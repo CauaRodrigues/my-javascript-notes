@@ -1,0 +1,3 @@
+seguidores 2000 
+seguindo 4000
+posts 30
